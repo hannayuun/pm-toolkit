@@ -2,6 +2,8 @@
 
 > 適用任何產業的 PM。內容涵蓋：發想、實驗設計、假設辨識與排序、功能排序、需求分流、使用者訪談、指標儀表板。
 > 方法來源為公開的產品管理框架（括號內為框架出處，僅作引用）。所有範例皆為中性示意。
+>
+> **出處與授權**：本文改寫自 [phuryn/pm-skills](https://github.com/phuryn/pm-skills) 的 `pm-product-discovery` plugin（v1.0.1），原作者 Pawel Huryn，MIT License。修改內容：翻譯為繁體中文、改寫為參考手冊格式、範例改為中性情境、移除外部延伸閱讀連結。要在 Claude Code 使用原版 skill，請直接從原 repo 安裝。
 
 ## 總表
 

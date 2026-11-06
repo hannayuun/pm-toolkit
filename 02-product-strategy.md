@@ -2,6 +2,8 @@
 
 > 適用任何產業的 PM。內容涵蓋：願景、產品策略畫布、Startup Canvas、價值主張、Lean Canvas、Business Model Canvas、SWOT、PESTLE、Ansoff Matrix、Porter's Five Forces、定價與變現。
 > 方法來源為公開的策略框架（括號內為框架出處，僅作引用）。範例皆改寫為中性示意。
+>
+> **出處與授權**：本文改寫自 [phuryn/pm-skills](https://github.com/phuryn/pm-skills) 的 `pm-product-strategy` plugin（v1.0.1），原作者 Pawel Huryn，MIT License。修改內容：翻譯為繁體中文、改寫為參考手冊格式、範例改為中性情境、移除品牌範例與外部延伸閱讀連結。要在 Claude Code 使用原版 skill，請直接從原 repo 安裝。
 
 ## 總表
 
