@@ -11,6 +11,7 @@
 | [03-po-interview-and-sparring.md](03-po-interview-and-sparring.md) | 五題 backlog item 訪談與一致性檢查；策略提案對練的 6 個階段、數字檢查清單、主管提問題庫與模板 | 整理自作者任職公司對外開放的 PO 工具方法 |
 | [04-internal-proposal.md](04-internal-proposal.md) | **對內提案**（向主管／決策者爭取資源與決策）：寫法、可複製的模板、商業模式圖、數字估算、簡報結構與送出前的自我檢查 | 整理自公開框架（原創整理） |
 | [05-business-proposal.md](05-business-proposal.md) | **對外商業提案**（向客戶爭取簽約）：12 項架構的撰寫指南、空白範本、完整範例、送出前檢查清單 | 整理自公開資料（原創整理） |
+| [06-use-case-and-acceptance-criteria.md](06-use-case-and-acceptance-criteria.md) | **Use Case 與 AC 拆解**：切片、use case、情境矩陣、領域專家訪談準備、Given/When/Then AC、一致性檢查；附 HRM 領域擴充包與範例 | 原創整理 |
 
 ## 建議使用順序
 
@@ -18,7 +19,8 @@
 2. **定方向**：02 的 strategy、market-scan；03 的 Direction Sparring
 3. **寫提案**：對內爭取決策用 04 的模板與逐節教學；用 01 的 identify-assumptions 找出未驗證的假設。對外向客戶提案用 05
 4. **寫 item**：03 的 Item Interview
-5. **追蹤成效**：01 的 metrics-dashboard
+5. **拆行為規格**：06 的 Use Case 與 AC 拆解（內部系統需求可先跑 06 的專家訪談，回頭補 03 的 User Goal）
+6. **追蹤成效**：01 的 metrics-dashboard
 
 ## 想在 Claude Code 直接使用 skill？
 
@@ -35,5 +37,6 @@
 - 01、02 改寫自 Pawel Huryn 的 [pm-skills](https://github.com/phuryn/pm-skills)（MIT License）。修改內容：翻譯為繁體中文、改寫為手冊格式、範例改為中性情境、移除品牌範例與外部連結。
 - 03 整理自作者任職公司對外開放的 PO 工具方法，**不在本 repo 的 MIT 授權範圍內**，轉載請保留出處。
 - 04、05 為作者依公開框架與資料整理的原創內容，引用出處列於各檔文末。
+- 06 為原創內容。
 - 文中提到的框架名稱與作者（例如 Marty Cagan 的四大產品風險、Teresa Torres 的 Opportunity Solution Tree、Osterwalder 的 Business Model Canvas、Ash Maurya 的 Lean Canvas）僅作出處引用。Business Model Canvas 與 Lean Canvas 本身以 CC BY-SA 授權，使用其畫布時請標示原作者。
 - 除 03 外，本 repo 以 MIT License 釋出，詳見 [LICENSE](LICENSE)。
